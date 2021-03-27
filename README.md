@@ -3,6 +3,9 @@ Zadanie 1
 Napisz program, który odczyta plik tekstowy, a następnie wykona jego kopię, w którym szyk liter w każdym z wyrazów będzie losowo zmieniony oprócz
 pierwszej i ostatniej litery wyrazu.  (uwzględnij interpunkcje, wielkie/małe litery, wielolinijkowe teksty, polskie znaki)
 
+Plik pobierany jest z /public/file/task1_file1.txt
+zapisywany w var
+
 Zadanie 2
 Napisz program do walidacji numeru PESEL zgodnie z oficjalną specyfikacją formatu. Przygotuj testy jednostkowe sprawdzające kilka danych
 nieprawidłowych i przynajmniej jeden poprawny numer pesel.
